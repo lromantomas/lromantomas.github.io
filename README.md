@@ -8,7 +8,7 @@
 <p align="center">HE2B 2016-2017</p>
 </font>
 </h1>
-<h2> Table des matières </h2>
+<h2> <p>Table des matières</p></h2>
 <p><a href="questions.html"> Questions essentielles</a></p>
 <p><a href="cahier.html"> Cahier des charges </a></p>
 <p><a href="lromantomas.github.io/Dossier documentaire/index.html"> Dossier Documentaire</a></p>
