@@ -11,7 +11,7 @@
 <div id="menu">
   <ul id="onglets">
     <li class="active"><a href="README.md"> Accueil </a></li>
-    <p> Dans ce projet, nous sommes amménés à réaliser un <a href="lromantomas.github.io/Dossier documentaire/index.html"> Dossier Documentaire</a> d'une technologie innovante lié au métier de l'information et la documentation. Il est également convenu de réaliser un <a href="cahier.html"> Cahier des charges </a> de notre TFE et de répondre à deux <a href="Questions.html"> Questions essentielles</a>  de notre cours d'informatisation des services documentaires. Enfin, un KANBAN de ce projet sera aussi présenté sur ce site.</p>
+    <p> Dans ce projet, nous sommes amménés à réaliser un <a href="Dossier documentaire/index.html"> Dossier Documentaire</a> d'une technologie innovante lié au métier de l'information et la documentation. Il est également convenu de réaliser un <a href="cahier.html"> Cahier des charges </a> de notre TFE et de répondre à deux <a href="Questions.html"> Questions essentielles</a>  de notre cours d'informatisation des services documentaires. Enfin, un KANBAN de ce projet sera aussi présenté sur ce site.</p>
     <li><a href="Forums.html"> Forums </a></li>
     <li><a href="Livre_or.html"> Livre d'or </a></li>
     <li><a href="Equipe.html"> L'équipe </a></li>
