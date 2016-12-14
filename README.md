@@ -9,7 +9,7 @@
 </font>
 </h1>
 <h2> <p>Table des matières</p></h2>
-<p><a href="questions.html"> Questions essentielles</a></p>
+<p><a href="Questions.html"> Questions essentielles</a></p>
 <p><a href="cahier.html"> Cahier des charges </a></p>
 <p><a href="lromantomas.github.io/Dossier documentaire/index.html"> Dossier Documentaire</a></p>
 
