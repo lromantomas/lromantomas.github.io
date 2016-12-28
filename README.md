@@ -10,7 +10,7 @@
 </h1>
 <div id="menu">
   <ul id="menu_horizontal">
-    <li class="active"><a href="README.md"> Accueil </a></li>
+    <li class="active"><a href="https://lromantomas.github.io/"> Accueil </a></li>
     <p> Dans ce projet, nous sommes amménés à réaliser un <a href="Dossier documentaire/index.html"> Dossier Documentaire</a> d'une technologie innovante lié au métier de l'information et la documentation. Il est également convenu de réaliser un <a href="cahier.html"> Cahier des charges </a> de notre TFE et de répondre à deux <a href="Questions .html"> Questions essentielles</a>  de notre cours d'informatisation des services documentaires. Enfin, un KANBAN de ce projet sera aussi présenté sur ce site.</p>
     <li><a href="Dossier documentaire/index.html"> Mon dossier documentaire </a></li>
     <li><a href="Questions .html"> Les deux questions essentielles </a></li>
